@@ -1,0 +1,13 @@
+img {
+    width: 400px;
+    height: 400px;
+}
+
+h1 {
+    color: white;
+    background-color: black;
+}
+
+.center-item {
+    text-align: center;
+}
