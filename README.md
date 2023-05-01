@@ -1,2 +1,2 @@
 ## Simples
-> A simple website for simple recipes
+> A simple website for simple recipes.
